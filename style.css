@@ -1,0 +1,28 @@
+body {
+    background-color: #2F3035;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: blue;
+    height: 118px;
+}
+
+nav {
+    background-color: red;
+    height: 40px;
+}
+
+main {
+    background-color: orange;
+    height: 400px;
+}
+
+footer {
+    background-color: green;
+    height: 100px;
+}
