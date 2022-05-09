@@ -1,5 +1,9 @@
 # Restaurant-Website
 
+## Preview Video
+
+https://youtube.com/shorts/caKq3rMH4JQ?feature=share
+
 ## About Adare
 
 I was inspired by Daniel Walter Scott's virtual Adare Restaurant website idea. I had a look at his wireframes, initial structure, and the filler text that he provided and used them as the base.
