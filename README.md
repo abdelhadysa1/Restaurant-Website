@@ -6,22 +6,15 @@ https://youtube.com/shorts/caKq3rMH4JQ?feature=share
 
 ## About Adare
 
-I was inspired by Daniel Walter Scott's virtual Adare Restaurant website idea. I had a look at his wireframes, initial structure, and the filler text that he provided and used them as the base.
-
-The initial version of this project was similar to Daniel's. I extended the original idea by adding the following:
-- Changing fonts and page structure
-- Adding the 'Make Reservation' button
-- Adding mobile navigation with a hamburger icon
-- Adding animations and transition effects
-- Adding a vignette effect to the background
-- Making the website responsive on mobile devices, tablets, and laptops
-
-This project is coded with HTML, CSS, and Vanilla JavaScript.
+An implementation to Daniel Scott's mockup for Adare Restaurant, made with HTML, CSS, and JS ES6.
 
 ## Features
 
-- Responsive Design
-- Embedded Google Maps section
-- Reservation Button
-- Mobile Navigation
+- Custom fonts and page structure
+- 'Make Reservation' button
+- Mobile navigation with a hamburger icon
+- Animations and transition effects
+- Vignette effect to the background
+- Responsive design
+- Embedded Google Maps
 - Footer Section
